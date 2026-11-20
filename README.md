@@ -7,6 +7,8 @@
 ![RAG](https://img.shields.io/badge/RAG-vector%20search-a78bfa?style=flat-square)
 ![Neon](https://img.shields.io/badge/Neon-AI%20Gateway-00E599?style=flat-square)
 
+**🚀 Live demo:** [askly-kappa.vercel.app](https://askly-kappa.vercel.app)
+
 ---
 
 ## ✨ What it does
